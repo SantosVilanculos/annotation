@@ -162,6 +162,7 @@ DirectoryIndex index.php index.html index.cgi index.pl index.xhtml index.htm
      ```
 
    - Para HTTPS, porta 443 do Apache:
+
      ```sh
      sudo ufw allow 443
      ```
@@ -169,6 +170,7 @@ DirectoryIndex index.php index.html index.cgi index.pl index.xhtml index.htm
 2. Habilitar acesso SSH:
 
    - Porta SSH 22:
+
      ```sh
      sudo ufw allow 22
      ```
