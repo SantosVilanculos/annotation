@@ -10,6 +10,7 @@ composer require --dev laravel/pint
 composer require --dev rector/rector
 composer require --dev pestphp/pest
 composer require --dev pestphp/pest-plugin-laravel
+composer require --dev pestphp/pest-plugin-type-coverage
 
 composer require --dev barryvdh/laravel-ide-helper
 composer require --dev barryvdh/laravel-debugbar
