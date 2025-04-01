@@ -5,7 +5,7 @@ composer require intervention/image
 composer require propaganistas/laravel-phone
 composer require opcodesio/log-viewer
 
-composer require --dev phpstan/phpstan
+composer require --dev larastan/larastan
 composer require --dev laravel/pint
 composer require --dev rector/rector
 composer require --dev pestphp/pest
