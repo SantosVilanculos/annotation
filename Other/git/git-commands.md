@@ -62,3 +62,9 @@ To delete a remote branch, we do not use the "git branch" command - but instead 
 ```sh
 git push origin --delete <branch>
 ```
+## 4. Deleting tags
+
+```sh
+git tag -d $(git tag -l);
+git push origin --delete $(git tag -l)
+``` 
