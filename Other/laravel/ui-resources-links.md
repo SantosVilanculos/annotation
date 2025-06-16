@@ -1,3 +1,3 @@
 - <https://devdojo.com/pines>
-- <https://tailwindui.com/components/preview>
-- <https://tailwindui.com/components>
+- <https://tailwindcss.com/plus/ui-blocks>
+- <https://tailwindcss.com/plus/ui-blocks/preview>
