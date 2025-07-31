@@ -34,7 +34,7 @@ sudo apt-get install -y \
 
 ### debian [bookworm](https://packages.sury.org/php/dists/bookworm)/[bullseye](https://packages.sury.org/php/dists/bullseye)
 
-#### php 8.3
+#### php 8.3/8.4
 
 ```sh
 sudo apt-get install-y software-properties-common lsb-release apt-transport-https ca-certificates
